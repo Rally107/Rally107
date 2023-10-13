@@ -26,7 +26,7 @@ About me
 - 🌱 I’m currently learning AWS, Python and SQL
 - 👀 I’m interested in automation of the boring stuff
 - 💞️ I’m looking to collaborate on every project which inspires me to learn
-- 📫 Reach me at er.rahul107@gmail.com
+- 📫 Reach me at er.rahuljain107@gmail.com
 
 
 **Languages and Tools:**  
