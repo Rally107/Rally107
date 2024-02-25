@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 About me
-- 💼 Data Engineer @  Lancesoft
+- 💼 Lead BI Analyst @ Concentrix
 - ❤️ I love coding in Python
 - 🌱 I’m currently learning AWS, Python and SQL
 - 👀 I’m interested in automation of the boring stuff
